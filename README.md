@@ -8,7 +8,9 @@ raw text into machine-readable formats, using methods like Bag of Words, N-grams
 ## Techniques Implemented:-
 
 **1. Tokenization**
+
 **2. Lemmatization**
+
 **3. Vectorization**
 - Bag of Words (BoW)
 - N-grams
